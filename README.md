@@ -11,8 +11,8 @@
 </div>
 <div align="center">
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hello!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   </h1>
 </div>
 <div align="center">
@@ -31,8 +31,11 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
   <h5> How to reach me:
   </h5>
-      <a href="https://twitter.com/PankajJagtapp)">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Solidity" **alt="Solidity" width="40" height="40" />
+      <a href="https://www.linkedin.com/in/pankaj-jagtap/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40" />
+      </a>
+      <a href="https://twitter.com/PankajJagtapp">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40" />
       </a>
 </div>
 
