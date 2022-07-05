@@ -21,14 +21,20 @@
 ---
 
 ### :man_technologist: About Me : 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I write smart contracts and contribute to frontend and backend.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read nonfiction books and read tech articles.
+- :zap: In my free time, I go on treks, read nonfiction books and tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-jagtap/)
+<div>
+  <h5> How to reach me:
+  </h5>
+      <a href="https://twitter.com/PankajJagtapp)">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Solidity" **alt="Solidity" width="40" height="40" />
+      </a>
+</div>
 
 ---
 
