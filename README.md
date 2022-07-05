@@ -34,8 +34,11 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <a href="https://www.linkedin.com/in/pankaj-jagtap/">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40" />
       </a>
-      <a href="https://twitter.com/PankajJagtapp">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40" />
+      <a href="https://twitter.com/PankajJagtapp">         
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" **alt="Twitter" width="40" height="40" />
+      </a>
+      <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Gmail" **alt="Gmail" width="40" height="40" />
       </a>
 </div>
 
