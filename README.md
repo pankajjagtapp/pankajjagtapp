@@ -17,11 +17,8 @@
 </div>
 
 ### :man_technologist: About Me : 
-I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I write smart contracts and contribute to frontend and backend.
-
-- :seedling: Exploring Technical Content Writing.
-
+I am a Smart Contract Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently residing in Cayman Islands.
+- :telescope: I write secure smart contracts, audit them and contribute to frontend and backend.
 - :zap: In my free time, I go on treks, read nonfiction books and tech articles.
 ---
 
